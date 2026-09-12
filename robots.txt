@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JorgeTorrv.github.io/resources-icatqs/sitemap.xml
